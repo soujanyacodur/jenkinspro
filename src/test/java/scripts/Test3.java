@@ -7,6 +7,7 @@ public class Test3 {
 	@Test
 	public void tc3() {
 		Reporter.log("Hello Python",true);
+		Reporter.log("Soujanya",true);
 	}
 
 }
